@@ -103,5 +103,9 @@ ENV/
 # Windows
 Thumbs.db
 
-#Psychopy
+# Psychopy
 *_lastrun.py
+data/*
+
+# MrPD content
+assets/resources/*
